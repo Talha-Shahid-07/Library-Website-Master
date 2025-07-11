@@ -74,13 +74,6 @@ Library-Website-Master/
 ├── Source-Code/
 │   ├── Pictures/                 # Background images for web pages
 │   ├── Main-Page.html            # Homepage
-│   ├── Register.php              # User registration page
-│   ├── Login.php                 # Login page
-│   ├── LoggedOut.php             # Logout page
-│   ├── Search.php                # Book search page
-│   ├── SearchResults.php         # Search results with pagination
-│   ├── Reservation.php           # Book reservation page
-│   ├── DatabaseConnect.php       # Database connection script
 │   ├── Main-Style.css            # CSS styling for all pages
 │   └── [other PHP/HTML files]    # Additional pages (e.g., Reserve.php, Unreserve.php)
 ├── README.md                     # This file
