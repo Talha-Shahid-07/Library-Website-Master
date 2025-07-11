@@ -1,4 +1,4 @@
-# Library Management System
+# Library Website Master
 
 A Database Management System (DBMS) project developed for the Database Management System Lab (CEL 222) course at Bahria University Karachi Campus. This system provides a web-based interface for managing library resources, including book searches, reservations, user registration, and account management. It leverages a MySQL database with advanced features like normalization, indexing, views, and stored procedures, integrated with a PHP/HTML/CSS frontend.
 
